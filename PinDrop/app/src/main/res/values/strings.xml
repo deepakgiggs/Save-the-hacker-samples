@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PinDrop</string>
+    <string name="title_activity_pin_drop_main_page">Track ME</string>
+</resources>

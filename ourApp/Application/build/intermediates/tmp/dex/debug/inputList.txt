@@ -1,0 +1,7 @@
+/Users/rsundhar/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/classes/debug
+/Users/rsundhar/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-75e75724013f83e3d45824e3824f95c3526f503c.jar
+/Users/rsundhar/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-8ef38a859a15776fd09b9591aff30a37b8cc4220.jar
+/Users/rsundhar/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-0caf8c57492431896cd1bfad3f9e7df6a11cc3ba.jar
+/Users/rsundhar/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-36db98f19af34ade9212bcce840b4cfb19c9de06.jar
+/Users/rsundhar/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-f747abf63740ea1f9ae3c76da1c2c24a19ca8248.jar
+/Users/rsundhar/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/classes-d06d6a79121d1f5515dc75b3ff0d7f3b21d97410.jar
